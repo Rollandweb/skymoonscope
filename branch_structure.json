@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-341-add-inclusion-probability-estimate-for-given",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-341-add-inclusion-probability-estimate-for-given": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-341-add-inclusion-probability-estimate-for-given",
+    "origin"
+  ]
+}
